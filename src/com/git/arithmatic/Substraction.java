@@ -2,7 +2,8 @@ package com.git.arithmatic;
 
 public class Substraction {
 
-	private int sub(int num1, int num2) {
+	private int sub(int num1, int num2) 
+	{
 		return num1 - num2;
 	}
 
